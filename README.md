@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Nimna Devinda Wijedasa, <br>A software engineering student at the University of Calgary.<br>I have a diverse skill set, including C, C++, Node, AWS, React, and more. <br>When i'm not  working on projects  you can find me actively involved in <br>extracurricular activities, such as serving as the Academic Vice-President of ZOO <br>or working as a Front End dev for Tech Start. <br>Feel free to connect with me on LinkedIn or <br>explore my GitHub to learn more about my work.
+Hello, I'm Nimna Devinda Wijedasa, <br>A software engineering student at the University of Calgary.<br>I have have mostly coded in  C, C++, Python, Java and React but i've worked with many more languages beyond those mentioned. <br>When i'm not  working on projects  you can find me actively involved in <br>serving as the Academic Vice-President of ZOO <br>or working as a Front End dev for Tech Start. <br>Feel free to connect with me on LinkedIn or <br>explore my GitHub to learn more about my work.
 
 
 ## 🌐 Socials:
